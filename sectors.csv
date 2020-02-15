@@ -1,0 +1,179 @@
+industry,num,num_10baggers,ratio
+Biotechnology,828,43,0.051932367149758456
+Banks - Regional,793,12,0.015132408575031526
+None,480,8,0.016666666666666666
+Software - Application,411,30,0.072992700729927
+Oil & Gas E&P,279,4,0.014336917562724014
+Medical Devices,240,13,0.05416666666666667
+Communication Equipment,199,9,0.04522613065326633
+Semiconductors,175,21,0.12
+Asset Management,169,3,0.01775147928994083
+Oil & Gas Midstream,169,2,0.011834319526627219
+Telecom Services,161,6,0.037267080745341616
+REIT - Mortgage,161,4,0.024844720496894408
+Conglomerates,148,0,0.0
+Specialty Business Services,136,7,0.051470588235294115
+Diagnostics & Research,136,9,0.0661764705882353
+Information Technology Services,132,8,0.06060606060606061
+Specialty Industrial Machinery,127,11,0.08661417322834646
+Utilities - Regulated Electric,123,0,0.0
+Insurance - Property & Casualty,121,3,0.024793388429752067
+Oil & Gas Equipment & Services,116,2,0.017241379310344827
+Packaged Foods,109,9,0.08256880733944955
+Specialty Chemicals,108,17,0.1574074074074074
+Credit Services,103,11,0.10679611650485436
+Banks - Regional - US,99,1,0.010101010101010102
+Specialty Retail,98,9,0.09183673469387756
+Capital Markets,98,1,0.01020408163265306
+Software - Infrastructure,96,9,0.09375
+Drug Manufacturers - Specialty & Generic,96,2,0.020833333333333332
+Aerospace & Defense,96,11,0.11458333333333333
+Restaurants,94,8,0.0851063829787234
+Leisure,91,5,0.054945054945054944
+Internet Content & Information,89,4,0.0449438202247191
+Medical Care Facilities,87,4,0.04597701149425287
+Auto Parts,86,16,0.18604651162790697
+REIT - Retail,84,1,0.011904761904761904
+Gold,80,1,0.0125
+Scientific & Technical Instruments,78,6,0.07692307692307693
+Banks - Diversified,76,0,0.0
+REIT - Diversified,76,1,0.013157894736842105
+Electronic Components,74,8,0.10810810810810811
+Real Estate Services,73,5,0.0684931506849315
+Other Industrial Metals & Mining,71,1,0.014084507042253521
+Entertainment,71,5,0.07042253521126761
+Engineering & Construction,68,3,0.04411764705882353
+Apparel Retail,67,4,0.05970149253731343
+Medical Instruments & Supplies,64,12,0.1875
+REIT - Office,63,1,0.015873015873015872
+Advertising Agencies,61,2,0.03278688524590164
+Insurance - Life,60,5,0.08333333333333333
+REIT - Industrial,60,3,0.05
+REIT - Hotel & Motel,60,1,0.016666666666666666
+Marine Shipping,59,0,0.0
+Household & Personal Products,58,3,0.05172413793103448
+Electrical Equipment & Parts,58,1,0.017241379310344827
+Education & Training Services,55,2,0.03636363636363636
+Computer Hardware,54,3,0.05555555555555555
+Semiconductor Equipment & Materials,54,13,0.24074074074074073
+Broadcasting,50,11,0.22
+REIT - Residential,49,1,0.02040816326530612
+Staffing & Employment Services,46,4,0.08695652173913043
+Residential Construction,45,1,0.022222222222222223
+Consulting Services,44,1,0.022727272727272728
+Apparel Manufacturing,44,4,0.09090909090909091
+Chemicals,43,3,0.06976744186046512
+Resorts & Casinos,42,4,0.09523809523809523
+Rental & Leasing Services,42,4,0.09523809523809523
+Industrial Distribution,41,4,0.0975609756097561
+Oil & Gas Refining & Marketing,41,3,0.07317073170731707
+Oil & Gas Drilling,40,0,0.0
+Steel,39,1,0.02564102564102564
+Waste Management,38,1,0.02631578947368421
+Building Products & Equipment,37,5,0.13513513513513514
+Packaging & Containers,37,1,0.02702702702702703
+Health Information Services,37,3,0.08108108108108109
+Farm Products,35,0,0.0
+Building Materials,34,1,0.029411764705882353
+Utilities - Diversified,34,0,0.0
+Agricultural Inputs,33,0,0.0
+Airlines,33,5,0.15151515151515152
+Internet Retail,32,5,0.15625
+Utilities - Regulated Gas,29,0,0.0
+Coal,28,0,0.0
+Business Equipment & Supplies,28,1,0.03571428571428571
+Oil & Gas Integrated,27,0,0.0
+Consumer Electronics,27,4,0.14814814814814814
+Trucking,27,3,0.1111111111111111
+Insurance - Diversified,26,0,0.0
+Personal Services,26,1,0.038461538461538464
+Insurance - Specialty,26,2,0.07692307692307693
+Security & Protection Services,26,1,0.038461538461538464
+Tools & Accessories,25,1,0.04
+Beverages - Wineries & Distilleries,25,2,0.08
+Business Services,24,0,0.0
+Farm & Heavy Construction Machinery,24,2,0.08333333333333333
+Recreational Vehicles,24,2,0.08333333333333333
+Publishing,24,0,0.0
+Medical Distribution,24,0,0.0
+Paper & Paper Products,24,6,0.25
+REIT - Healthcare Facilities,23,0,0.0
+Insurance - Reinsurance,23,0,0.0
+"Furnishings, Fixtures & Appliances",23,4,0.17391304347826086
+Railroads,22,2,0.09090909090909091
+Grocery Stores,22,0,0.0
+Utilities - Regulated Water,21,1,0.047619047619047616
+REIT - Specialty,21,3,0.14285714285714285
+Integrated Freight & Logistics,20,3,0.15
+Healthcare Plans,19,6,0.3157894736842105
+Travel Services,19,2,0.10526315789473684
+Footwear & Accessories,19,4,0.21052631578947367
+Auto & Truck Dealerships,19,3,0.15789473684210525
+Mortgage Finance,19,3,0.15789473684210525
+Pollution & Treatment Controls,19,0,0.0
+Solar,19,0,0.0
+Auto Manufacturers,19,3,0.15789473684210525
+Beverages - Non-Alcoholic,19,1,0.05263157894736842
+Banks - Global,18,0,0.0
+Electronics & Computer Distribution,18,1,0.05555555555555555
+Drug Manufacturers - General,18,1,0.05555555555555555
+Discount Stores,17,1,0.058823529411764705
+Insurance Brokers,17,2,0.11764705882352941
+Food Distribution,17,1,0.058823529411764705
+Metal Fabrication,16,0,0.0
+Industrial Metals & Minerals,16,0,0.0
+Pharmaceutical Retailers,16,0,0.0
+Lodging,15,2,0.13333333333333333
+Luxury Goods,14,2,0.14285714285714285
+Airports & Air Services,14,2,0.14285714285714285
+Tobacco,14,0,0.0
+Electronic Gaming & Multimedia,14,3,0.21428571428571427
+Department Stores,13,1,0.07692307692307693
+Diversified Industrials,13,0,0.0
+Aluminum,12,0,0.0
+Gambling,12,0,0.0
+Shipping & Ports,11,0,0.0
+Savings & Cooperative Banks,11,0,0.0
+Utilities - Renewable,10,0,0.0
+Real Estate - Diversified,10,1,0.1
+Uranium,10,0,0.0
+Beverages - Brewers,10,2,0.2
+Financial Data & Stock Exchanges,9,3,0.3333333333333333
+Utilities - Independent Power Producers,9,0,0.0
+Silver,9,0,0.0
+Home Improvement Retail,8,0,0.0
+Real Estate - Development,8,1,0.125
+Real Estate - General,7,0,0.0
+Thermal Coal,7,0,0.0
+Furnishings,7,0,0.0
+Confectioners,7,0,0.0
+Lumber & Wood Production,7,0,0.0
+Drug Manufacturers - Major,6,0,0.0
+Textile Manufacturing,6,1,0.16666666666666666
+Specialty Finance,6,0,0.0
+Medical Care,6,0,0.0
+Other Precious Metals & Mining,5,0,0.0
+Broadcasting - TV,5,0,0.0
+Computer Systems,5,1,0.2
+Media - Diversified,5,0,0.0
+Pay TV,4,0,0.0
+Copper,4,0,0.0
+Semiconductor Memory,3,0,0.0
+Apparel Stores,3,0,0.0
+Financial Conglomerates,3,0,0.0
+Business Equipment,3,0,0.0
+Long-Term Care Facilities,3,0,0.0
+Broadcasting - Radio,2,0,0.0
+Farm & Construction Equipment,2,0,0.0
+Home Improvement Stores,2,0,0.0
+Health Care Plans,2,1,0.5
+Staffing & Outsourcing Services,2,0,0.0
+Marketing Services,2,0,0.0
+Home Furnishings & Fixtures,2,0,0.0
+Data Storage,2,0,0.0
+Beverages - Soft Drinks,1,0,0.0
+Integrated Shipping & Logistics,1,0,0.0
+Financial Exchanges,1,0,0.0
+Infrastructure Operations,1,0,0.0
+Banks - Regional - Latin America,1,0,0.0
+Coking Coal,1,0,0.0
